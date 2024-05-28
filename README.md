@@ -1,3 +1,5 @@
+# Macroeconomics FlashCards
+
 ## Overview
 This FlashCard application is a personalised Java program I developed based on my notes from the second-semester Macroeconomics course during my second year at university. The application is designed to aid in studying and reviewing key economic concepts through an interactive question-and-answer format. 
 
